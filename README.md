@@ -36,7 +36,18 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manumsimao&theme=dracula&title=MultiLanguage,Commits,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+<source 
+  srcset="https://github-profile-trophy.vercel.app/?username=manumsimao&theme=dracula&title=MultiLanguage%2C%0ACommits%2C%0APullRequest"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-profile-trophy.vercel.app/?username=manumsimao&title=MultiLanguage%2C%0ACommits%2C%0APullRequest"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-profile-trophy.vercel.app/?username=manumsimao&theme=dracula&title=MultiLanguage%2C%0ACommits%2C%0APullRequest" />
+</picture>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumsimao&layout=compact&theme=dracula&hide=Java,Kotlin)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://media0.giphy.com/media/oH9EpHYhOtlIZipqpk/giphy.gif" width=100 align="left">
