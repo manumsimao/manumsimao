@@ -13,7 +13,7 @@
 
 ## About me:
 
-<img align="right" src="https://user-images.githubusercontent.com/50922306/209988749-c230f476-1155-4b07-8e22-6bf0118cdba8.png" width="300" />
+<img align="right" src="https://github.com/manumsimao/manumsimao/assets/50922306/a91c3fa2-a2e1-4a94-9372-51224d0373f6" width="400" />
 
 :brazil: I'm Brazilian 
 
