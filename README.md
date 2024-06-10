@@ -43,15 +43,13 @@ inside [RD Station](https://rdstation.com)'s Marketing team.
 	<img src="https://github-profile-trophy.vercel.app/?username=manumsimao&theme=dracula&title=MultiLanguage%2C%0ACommits%2C%0APullRequest" />
 </picture>
 
+<picture> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula) </picture>
+
 <picture>
 	<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=manumsimao&layout=compact&theme=dracula&hide=Java%2C%0AKotlin" media="(prefers-color-scheme: dark)" />
 	<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=manumsimao&layout=compact&hide=Java%2C%0AKotlin" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manumsimao&layout=compact&theme=dracula&hide=Java%2C%0AKotlin" />
 </picture> 
-
-	
-<picture> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula) </picture>
-
 
 <img src="https://media0.giphy.com/media/oH9EpHYhOtlIZipqpk/giphy.gif" width="100" align="left" />
 
