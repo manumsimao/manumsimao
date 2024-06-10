@@ -37,13 +37,14 @@ inside [RD Station](https://rdstation.com)'s Marketing team.
 	<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 </p>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+
 <picture>
 	<source srcset="https://github-profile-trophy.vercel.app/?username=manumsimao&theme=dracula&title=MultiLanguage%2C%0ACommits%2C%0APullRequest" media="(prefers-color-scheme: dark)" />
 	<source srcset="https://github-profile-trophy.vercel.app/?username=manumsimao&title=MultiLanguage%2C%0ACommits%2C%0APullRequest" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 	<img src="https://github-profile-trophy.vercel.app/?username=manumsimao&theme=dracula&title=MultiLanguage%2C%0ACommits%2C%0APullRequest" />
 </picture>
-
-<picture> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula) </picture>
 
 <picture>
 	<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=manumsimao&layout=compact&theme=dracula&hide=Java%2C%0AKotlin" media="(prefers-color-scheme: dark)" />
